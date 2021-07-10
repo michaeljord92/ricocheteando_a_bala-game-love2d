@@ -1,6 +1,0 @@
-{
-    "Lua.diagnostics.globals": [
-        "love"
-    ],
-    "pixelbyte.love2d.path": "/snap/bin/love2d"
-}
